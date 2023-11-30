@@ -1,0 +1,10 @@
+168399	Cassie	Cooper	ccooper12@gmail.com	0496885719	1600	Silver
+152360	Josiah	O'Neill	jneill@hotmail.com	0400695774	4800	Gold
+128299	Aliza	McCall	alizamc27@gmail.com	0411857208	200	Bronze
+188567	Anna	Rodrick	anna235@hotmail.com	0448266503	600	Bronze
+123210	Connor	Vaughn	connorv1@gmail.com	0478293011	2100	Silver
+188765	Yuvraj	Rayon	yvray2@hotmail.com	0476793054	400	Bronze
+101995	Sonny	Watkins	sonnyw30@gmail.com	0427983795	6000	Gold
+113836	Heidi	Salas	heisalas3@gmail.com	0406006518	2500	Silver
+116593	Thera	Keeys	theerak5@gmail.com	0497816490	0	Bronze
+Ctest	Vince	Carter	vincethe@gmail.com	0000000000	1700	Gold

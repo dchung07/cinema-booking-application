@@ -1,0 +1,47 @@
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Admins.txt
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Bookings.txt
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Credentials.txt
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Customers.txt
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Movies.txt
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Staff.txt
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Cinema Booking System.exe
+C:\Users\David\source\repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Cinema Booking System.deps.json
+C:\Users\David\source\repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Cinema Booking System.runtimeconfig.json
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Cinema Booking System.dll
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Cinema Booking System.pdb
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.AddCustomerForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.AddStaffForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.AdminForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.CustomerForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.LoginForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.ManageCustomerForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.ManageStaffForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.StaffForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.ViewCustomerForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.ViewStaffForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema Booking System.csproj.GenerateResource.cache
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema Booking System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema Booking System.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema Booking System.AssemblyInfo.cs
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema Booking System.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema Booking System.dll
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\refint\Cinema Booking System.dll
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema Booking System.pdb
+C:\Users\David\source\repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema Booking System.genruntimeconfig.cache
+C:\Users\David\source\repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\ref\Cinema Booking System.dll
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.CustomerProfileForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.Properties.Resources.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.LandingPageForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.SignUpForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.MovieBookingForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.PurchaseForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.CommentSectionForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.AddCommentForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.ManagePasswordForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.CustomersCommentHistoryForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.CustomerBookingHistoryForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.StaffMoviesForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Comments.txt
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\bin\Debug\net6.0-windows\Members.txt
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.StaffBookingManagementForm.resources
+C:\Users\David\Source\Repos\justin-widjaya\Cinema-Booking-System\Cinema Booking System\obj\Debug\net6.0-windows\Cinema_Booking_System.StaffCommentForm.resources
